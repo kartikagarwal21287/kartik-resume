@@ -10,7 +10,10 @@ A responsive personal resume website for Kartik Agarwal, Co-Founder at Mimsy and
 Open `index.html` in a browser. No installation or build is needed.
 
 ## Design
-Navy text, blue accents and a light background establish a consistent palette. The page includes About, Experience, Education and Contact & Links sections. The KA graphic is typographic, not a personal photograph. The contact area links to the Mimsy brand website; no invented personal email, phone number, qualification, employment date or project is included.
+A monochrome editorial layout inspired by Tomasz Mazurczak's CV / Resume - Website Concept 2023 for Studio.Design:
+https://dribbble.com/shots/20253791-CV-Resume-Website-Concept-2023
+
+An uppercase headline leads into a profile sidebar and structured experience, education, skills, approach and contact sections. Double rules, numbered labels and generous spacing create a print-resume feel. Grid adapts the layout for mobile, Flexbox aligns navigation and rows, and a system sans-serif font is paired with italic serif accents. The circular profile image uses Kartik’s supplied portrait, displayed in grayscale with CSS. All content remains specific to Kartik Agarwal.
 
 ## GitHub Pages
 Publish the `main` branch from `/ (root)` in repository Settings → Pages. Repository: https://github.com/kartikagarwal21287/kartik-resume
