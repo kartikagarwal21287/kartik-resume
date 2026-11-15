@@ -13,7 +13,7 @@ Open `index.html` in a browser. No installation or build is needed.
 A monochrome editorial layout inspired by Tomasz Mazurczak's CV / Resume - Website Concept 2023 for Studio.Design:
 https://dribbble.com/shots/20253791-CV-Resume-Website-Concept-2023
 
-An uppercase headline leads into a profile sidebar and structured experience, education, skills, approach and contact sections. Double rules, numbered labels and generous spacing create a print-resume feel. Grid adapts the layout for mobile, Flexbox aligns navigation and rows, and a system sans-serif font is paired with italic serif accents. The circular profile image uses Kartik’s supplied portrait, displayed in grayscale with CSS. All content remains specific to Kartik Agarwal.
+An uppercase headline leads into a profile sidebar and structured experience, education, skills, approach and contact sections. Double rules, numbered labels and generous spacing create a print-resume feel. Grid adapts the layout for mobile, Flexbox aligns navigation and rows, and a system sans-serif font is paired with italic serif accents. The circular profile image uses Kartik’s supplied portrait, displayed in its original colors. All content remains specific to Kartik Agarwal.
 
 ## GitHub Pages
 Publish the `main` branch from `/ (root)` in repository Settings → Pages. Repository: https://github.com/kartikagarwal21287/kartik-resume
