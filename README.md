@@ -21,3 +21,6 @@ Publish the `main` branch from `/ (root)` in repository Settings → Pages. Repo
 GitHub Pages address: https://kartikagarwal21287.github.io/kartik-resume/
 
 The Pages address is available after the initial GitHub Pages deployment completes.
+
+## Schooling
+Delhi Public School, Agra — Class 12: 95.2%; Class 10: 92.6%. Grades supplied by Kartik Agarwal. Schooling dates were not supplied.
