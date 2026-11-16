@@ -1,26 +1,20 @@
 # Kartik Agarwal — CSS Resume Website
 
-A responsive personal resume website for Kartik Agarwal, Co-Founder at Mimsy and student at MESA School of Business.
+A responsive resume website built with semantic HTML and CSS. No JavaScript or framework is required by the page.
+
+## Links
+- Live: https://kartikagarwal21287.github.io/kartik-resume/
+- Repository: https://github.com/kartikagarwal21287/kartik-resume
 
 ## Files
-- `index.html`: semantic resume content, navigation and metadata.
-- `styles.css`: colors, typography, responsive Grid and Flexbox layouts, hover and focus styles.
-- `script.js`: updates the copyright year.
-
-Open `index.html` in a browser. No installation or build is needed.
+- `index.html`: resume sections, profile and navigation.
+- `styles.css`: typography, CSS variables, responsive Grid/Flexbox, cards and animation.
+- `kartik-agarwal.jpg`: Kartik’s supplied portrait in its original colors.
+- `script.js`: retained from an earlier version; not referenced or needed by the current page.
 
 ## Design
-A monochrome editorial layout inspired by Tomasz Mazurczak's CV / Resume - Website Concept 2023 for Studio.Design:
-https://dribbble.com/shots/20253791-CV-Resume-Website-Concept-2023
+The supplied assignment guide informed the navy header, grey sidebar, overlapping circular photo, highlight cards and timeline sections. The content is Kartik’s: Mimsy experience, MESA studies, and DPS Agra results (Class 10: 92.6%; Class 12: 95.2%, supplied by Kartik). MESA’s program name and 2026–present dates were read on his LinkedIn profile. No awards or certifications were supplied.
 
-An uppercase headline leads into a profile sidebar and structured experience, education, skills, approach and contact sections. Double rules, numbered labels and generous spacing create a print-resume feel. Grid adapts the layout for mobile, Flexbox aligns navigation and rows, and a system sans-serif font is paired with italic serif accents. The circular profile image uses Kartik’s supplied portrait, displayed in its original colors. All content remains specific to Kartik Agarwal.
+Element, ID, class, descendant, adjacent-sibling and pseudo-class selectors organize the CSS. Grid creates the resume columns and feature cards; Flexbox aligns the navbar and entry headings. Media queries adapt the layout at 850px and 600px. Reduced-motion preferences disable animation.
 
-## GitHub Pages
-Publish the `main` branch from `/ (root)` in repository Settings → Pages. Repository: https://github.com/kartikagarwal21287/kartik-resume
-
-GitHub Pages address: https://kartikagarwal21287.github.io/kartik-resume/
-
-The Pages address is available after the initial GitHub Pages deployment completes.
-
-## Schooling
-Delhi Public School, Agra — Class 12: 95.2%; Class 10: 92.6%. Grades supplied by Kartik Agarwal. Schooling dates were not supplied.
+Open `index.html` locally. For hosting, GitHub Pages publishes the main branch from the repository root; no build is needed.
